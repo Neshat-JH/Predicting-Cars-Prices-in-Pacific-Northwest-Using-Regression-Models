@@ -18,38 +18,38 @@ Initial EDA was performed to have a better understanding of the data which led t
 Models such as Linear regression, Lasso and Ridge regularization methods, polynomial regression, gradient boosted regressor, and extreme gradient boosting (XGBoost) were used during this project. In each step the models were fine-tuned based on their evaluation metrics. Here is a summary of the metrics for each model:
 
 *	Base Linear Regression (numeric features only):
-  - R2 Training set: 0.35
-  -	R2 Test set: 0.37
-  -	MAE: 8,940.20
-  -	RMSE: 11,545.34
+    - R2 Training set: 0.35
+    -	R2 Test set: 0.37
+    -	MAE: 8,940.20
+    -	RMSE: 11,545.34
 
 *	Linear Regression (post log transformation of target):
-  -	R2 Training set: 0.45
-  -	R2 Validation set: 0.47
-  -	R2 Test set: 0.45
+    -	R2 Training set: 0.45
+    -	R2 Validation set: 0.47
+    -	R2 Test set: 0.45
 
 *	Polynomial Regression:
-  -	R2 Training set: 0.55
-  -	R2 Validation set: 0.55
-  -	R2 Test set: 0.54
+    -	R2 Training set: 0.55
+    -	R2 Validation set: 0.55
+    -	R2 Test set: 0.54
 
 *	Lasso Regression:
-  -	R2 Training set: 0.87
-  -	R2  Validation set: 0.85
+    -	R2 Training set: 0.87
+    -	R2  Validation set: 0.85
 
 *	Ridge Regression:
-  -	R2 Training set: 0.88
-  -	R2  Validation set: 0.85
+    -	R2 Training set: 0.88
+    -	R2  Validation set: 0.85
 
 *	Gradient Boosted Regressor:
-  -	R2 Test set: 0.80
+    -	R2 Test set: 0.80
 
 *	XGBoost Regressor:
-  -	R2 Training set: 0.95
-  -	R2 Validation set: 0.95
-  -	R2 Test set: 0.90
-  -	MAE: 3,323.50
-  -	RMSE: 4,682.70
+    -	R2 Training set: 0.95
+    -	R2 Validation set: 0.95
+    -	R2 Test set: 0.90
+    -	MAE: 3,323.50
+    -	RMSE: 4,682.70
 
 ### **Tools**
 -	Python libraries including BeautifulSoup, Pandas, and Numpy for web scaping, parsing and data manipulation.
