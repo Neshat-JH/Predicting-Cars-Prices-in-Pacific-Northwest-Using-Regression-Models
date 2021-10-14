@@ -32,7 +32,7 @@ Models such as Linear regression, Lasso and Ridge regularization methods, polyno
     -	R^2 Training set: 0.55
     -	R^2 Validation set: 0.55
     -	R^2 Test set: 0.54
-
+### Added all features (categorical and numerical)
 *	Lasso Regression:
     -	R^2 Training set: 0.87
     -	R^2  Validation set: 0.85
